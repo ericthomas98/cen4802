@@ -1,2 +1,3 @@
 # cen4802
-This is a repository for my CEN-4802C Undergrad course
+Eric Thomas Jr.
+This is a repository for my CEN-4802C Undergrad course.
